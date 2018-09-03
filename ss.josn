@@ -1,9 +1,9 @@
 {
-"server":"45.76.76.223",
-"server_port":"8989",
+"server":"50.3.65.17",
+"server_port":"18533",
 "local_address":"127.0.0.1",
 "local_port":"1080",
-"password":"password-1234",
+"password":"admin1234",
 "timeout":"300",
 "method":"aes-256-cfb"
 }
